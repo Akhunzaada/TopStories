@@ -3,15 +3,18 @@ Top Stories by New York Times App
 
 The app displays list of top stories by New York Times. A story can bookmarked to read it again later.
 
-This app loads Top Stories from New York Times' JSON API at 
+This app loads Top Stories from New York Times' JSON API at
+
 https://developer.nytimes.com/docs/top-stories-product/1/overview.
 
-The app is based on Google's MVVM Architecture 
+The app is based on Google's MVVM Architecture
+
 https://github.com/android/architecture-components-samples/tree/main/GithubBrowserSample.
 
 ### UI/UX
 Following resources are used for design inspirations:
 https://dribbble.com/shots/6616292-News-app
+
 https://dribbble.com/shots/6688580-News-App
 
 ### Testing
