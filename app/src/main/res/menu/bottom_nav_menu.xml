@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/topStoriesFragment"
+        android:icon="@drawable/ic_trending"
+        android:title="@string/title_top_stories" />
+
+    <item
+        android:id="@+id/bookmarksFragment"
+        android:icon="@drawable/ic_bookmark"
+        android:title="@string/title_bookmarks" />
+
+</menu>

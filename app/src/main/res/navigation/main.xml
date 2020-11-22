@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    app:startDestination="@id/topStoriesFragment">
+
+    <fragment
+        android:id="@+id/topStoriesFragment"
+        android:name="net.cocooncreations.topstories.ui.story.TopStoriesFragment"
+        android:label="Top Stories" >
+        <action
+            android:id="@+id/showBookmarks"
+            app:destination="@id/bookmarksFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bookmarksFragment"
+        android:name="net.cocooncreations.topstories.ui.story.BookmarksFragment"
+        android:label="Bookmarks" >
+    </fragment>
+</navigation>

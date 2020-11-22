@@ -1,0 +1,258 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "home",
+  "last_updated": "2020-11-22T11:49:08-05:00",
+  "num_results": 57,
+  "results": [
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "How Trump Hopes to Use Party Machinery to Retain Control of the G.O.P.",
+      "abstract": "Ronna McDaniel, a close ally of President Trump, wants to remain head of the Republican National Committee, worrying party members who believe the president will try to use the group to keep control of the G.O.P.",
+      "url": "https://www.nytimes.com/2020/11/22/us/politics/trump-gop-control.html",
+      "uri": "nyt://article/f2e8a47d-d16a-5c75-916b-27c2aa59e691",
+      "byline": "By Jonathan Martin and Maggie Haberman",
+      "item_type": "Article",
+      "updated_date": "2020-11-22T11:17:52-05:00",
+      "created_date": "2020-11-22T05:00:12-05:00",
+      "published_date": "2020-11-22T05:00:12-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Politics and Government",
+        "Presidential Election of 2024",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "Republican National Committee",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "McDaniel, Ronna Romney"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/us/politics/22rnc-1/merlin_176138586_35ef7c38-42aa-48f2-a55a-270f533056ea-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ronna McDaniel, President Trump’s handpicked chairwoman of the Republican National Committee, intends to seek re-election to her post.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/us/politics/22rnc-1/merlin_176138586_35ef7c38-42aa-48f2-a55a-270f533056ea-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ronna McDaniel, President Trump’s handpicked chairwoman of the Republican National Committee, intends to seek re-election to her post.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/us/politics/22rnc-1/merlin_176138586_35ef7c38-42aa-48f2-a55a-270f533056ea-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ronna McDaniel, President Trump’s handpicked chairwoman of the Republican National Committee, intends to seek re-election to her post.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/us/politics/22rnc-1/merlin_176138586_35ef7c38-42aa-48f2-a55a-270f533056ea-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ronna McDaniel, President Trump’s handpicked chairwoman of the Republican National Committee, intends to seek re-election to her post.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/us/politics/22rnc-1/merlin_176138586_35ef7c38-42aa-48f2-a55a-270f533056ea-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ronna McDaniel, President Trump’s handpicked chairwoman of the Republican National Committee, intends to seek re-election to her post.",
+          "copyright": "Pete Marovich for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kUcHdc"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Duty or Party? For Republicans, a Test of Whether to Enable Trump",
+      "abstract": "In pushing his false claims to the limits and cowing Republicans into acquiescence or silence, President Trump has revealed the fragility of the electoral system — and shaken it.",
+      "url": "https://www.nytimes.com/2020/11/21/us/politics/trump-vote.html",
+      "uri": "nyt://article/f26ba611-7f7f-5365-a0e2-c33036020b02",
+      "byline": "By Jim Rutenberg and Kathleen Gray",
+      "item_type": "Article",
+      "updated_date": "2020-11-22T11:17:49-05:00",
+      "created_date": "2020-11-21T12:21:40-05:00",
+      "published_date": "2020-11-21T12:21:40-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Voting and Voters",
+        "Electoral College"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        "Michigan"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/us/politics/22vote-print1/merlin_180249678_aeaefc6d-1196-4b51-b2a9-00e92fc8c890-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump at the White House on Friday. The president’s gambit, never realistic to begin with, appears to be growing more futile by the day.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/us/politics/22vote-print1/merlin_180249678_aeaefc6d-1196-4b51-b2a9-00e92fc8c890-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump at the White House on Friday. The president’s gambit, never realistic to begin with, appears to be growing more futile by the day.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/us/politics/22vote-print1/merlin_180249678_aeaefc6d-1196-4b51-b2a9-00e92fc8c890-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump at the White House on Friday. The president’s gambit, never realistic to begin with, appears to be growing more futile by the day.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/us/politics/22vote-print1/merlin_180249678_aeaefc6d-1196-4b51-b2a9-00e92fc8c890-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump at the White House on Friday. The president’s gambit, never realistic to begin with, appears to be growing more futile by the day.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/us/politics/22vote-print1/merlin_180249678_aeaefc6d-1196-4b51-b2a9-00e92fc8c890-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump at the White House on Friday. The president’s gambit, never realistic to begin with, appears to be growing more futile by the day.",
+          "copyright": "Erin Schaff/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/338i6am"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Trump Using Last Days to Lock In Policies and Make Biden’s Task More Difficult",
+      "abstract": "At a wide range of departments and agencies, Mr. Trump’s political appointees are going to extraordinary lengths to try to prevent Mr. Biden from rolling back the president’s legacy.",
+      "url": "https://www.nytimes.com/2020/11/21/us/politics/trump-biden-transition.html",
+      "uri": "nyt://article/f01612ed-82dc-5f80-987e-9a19d4afec77",
+      "byline": "By Michael D. Shear",
+      "item_type": "Article",
+      "updated_date": "2020-11-22T11:23:21-05:00",
+      "created_date": "2020-11-21T13:00:28-05:00",
+      "published_date": "2020-11-21T13:00:28-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Transition (US)",
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "United States International Relations",
+        "United States Economy",
+        "Appointments and Executive Changes",
+        "Afghanistan War (2001- )"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "China",
+        "Iran"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/21/us/politics/21dc-transition-1/merlin_180249642_f7a5f520-d929-4df9-a0cc-6f1718568316-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In some cases, President Trump’s government plans to act just days — or even hours — before President-elect Joseph R. Biden Jr. is inaugurated in January.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/21/us/politics/21dc-transition-1/merlin_180249642_f7a5f520-d929-4df9-a0cc-6f1718568316-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In some cases, President Trump’s government plans to act just days — or even hours — before President-elect Joseph R. Biden Jr. is inaugurated in January.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/21/us/politics/21dc-transition-1/merlin_180249642_f7a5f520-d929-4df9-a0cc-6f1718568316-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In some cases, President Trump’s government plans to act just days — or even hours — before President-elect Joseph R. Biden Jr. is inaugurated in January.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/21/us/politics/21dc-transition-1/merlin_180249642_f7a5f520-d929-4df9-a0cc-6f1718568316-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In some cases, President Trump’s government plans to act just days — or even hours — before President-elect Joseph R. Biden Jr. is inaugurated in January.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/11/21/us/politics/21dc-transition-1/merlin_180249642_f7a5f520-d929-4df9-a0cc-6f1718568316-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In some cases, President Trump’s government plans to act just days — or even hours — before President-elect Joseph R. Biden Jr. is inaugurated in January.",
+          "copyright": "Erin Schaff/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3nNfMhc"
+    }
+  ]
+}
